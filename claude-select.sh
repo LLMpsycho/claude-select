@@ -19,10 +19,10 @@ BASE_URLS[2]="https://api.kimi.com/coding"
 AUTH_TOKENS[2]="your-api-key"
 CONFIG_DIRS[2]="${HOME}/.kimi"
 
-MODELS[3]="kimi-k2-thinking (alt)"
+MODELS[3]="kimi-k3.1-pro"
 BASE_URLS[3]="https://api.kimi.com/coding"
 AUTH_TOKENS[3]="your-api-key"
-CONFIG_DIRS[3]="${HOME}/.kimi2"
+CONFIG_DIRS[3]="${HOME}/.kimi"
 
 MODELS[4]="qwen3-coder-plus"
 BASE_URLS[4]="http://localhost:8317"
